@@ -1,0 +1,6 @@
+{
+  "name": "Aspirant Sportswear",
+  "description": "Aspirant Sportswear management system for full sublimation printing and sportswear manufacturing with live biometric attendance, artist & operator bonus incentives, and automated salary payroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
